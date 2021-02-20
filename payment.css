@@ -1,0 +1,23 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    background: url(https://i.pinimg.com/originals/2f/58/83/2f5883136e09df10fb44dc425cb84c85.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.div{
+    padding: 3%;
+    border: 2px solid rgb(192, 56, 56);
+    width: 20%;
+    border-radius: 25px;
+    margin: 15% auto;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
